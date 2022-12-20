@@ -13,11 +13,17 @@ Main Objective:
 - To upload the reports frequently and track the overall progress
 - To track the patient health status and offer guidance and manage push notification
 
+<br><p><b>SG Medicine Apk:</b></p>
+[Download & install SG Medicine](https://play.google.com/store/apps/details?id=io.consoleit.sg_medicine)
+
 <br><p><b>SG Medicine Video:</b></p>
 [Watch SG Medicine Video](https://drive.google.com/file/d/1FuVJlhS2f2DEMIQffqSAAkxN9siUWzjr/view?usp=share_link)
 
-<br><p><b>SG Medicine Apk:</b></p>
-[Download & install SG Medicine](https://play.google.com/store/apps/details?id=io.consoleit.sg_medicine)
+<br><p><b>SG Medicine Documentation (detailed):</b></p>
+[Read Deatiled SG Medicine Documentation](https://docs.google.com/document/d/1iromZgflGa8ozBSf24jjEXoEuPnMGCjT/edit?usp=share_link&ouid=110595566227385214805&rtpof=true&sd=true)
+
+<br><p><b>SG Medicine Documentation (UI):</b></p>
+[Read UI SG Medicine Documentation](https://drive.google.com/file/d/1yB8Jicgb_K1xFyJ8Itfq2qr3plMT2KE7/view?usp=share_link)
 
 <div class="column">
     <br><p><b>Screenshots:</b></p>
